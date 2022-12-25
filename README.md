@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Manuel, aka @mrbubbles-src
-- 🌱 I’m studying to become a Web Developer @DCI
+- 👋 Hi, I’m Manuel, aka mrbubbles-src
+- 🌱 I’m currently studying Web Development at the DCI
 - 📫 You can reach me via my links on the side
 
 <!---
