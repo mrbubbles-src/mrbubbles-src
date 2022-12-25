@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manuel, aka mrbubbles-src
-- 🌱 I’m currently studying Web Development at the DCI
+- 🌱 I’m currently studying Web Development at the [DCI](https://github.com/DigitalCareerInstitute)
 - 📫 You can reach me via my links on the side
 
 <!---
