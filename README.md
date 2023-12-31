@@ -1,8 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manuel, aka mrbubbles-src, nice to meet you!
 
-## Junior Fullstack Web Developer (MERN)
-
-I am in the final stretch of my Web Developement course (Backend Module) at the [Digital Career Institute](https://github.com/DigitalCareerInstitute).
+## Junior Assistant Teacher for Web Developer (MERN) @[DCI Digital Career Institute](https://digitalcareerinstitute.org/).
 
 -   🌍  I'm based in Cologne, Germany
 -   ✉️  You can contact me at [manuel_fahrenholz@web.de](mailto:manuel_fahrenholz@web.de)
@@ -30,4 +28,4 @@ I am in the final stretch of my Web Developement course (Backend Module) at the 
 ### Socials
 
 <p align="left">                     
-<a href="https://www.linkedin.com/in/manuel-fahrenholz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_MstrBubbles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/manuel-fahrenholz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
