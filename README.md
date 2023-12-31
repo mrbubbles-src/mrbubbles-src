@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manuel, aka mrbubbles-src, nice to meet you!
 
-## Junior Assistant Teacher for Web Developer (MERN) @[DCI Digital Career Institute](https://digitalcareerinstitute.org/).
+## Assistant Teacher for Web Developer (MERN) @[DCI Digital Career Institute](https://digitalcareerinstitute.org/).
 
 -   🌍  I'm based in Cologne, Germany
 -   ✉️  You can contact me at [manuel_fahrenholz@web.de](mailto:manuel_fahrenholz@web.de)
