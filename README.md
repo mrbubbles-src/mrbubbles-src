@@ -3,7 +3,6 @@
 ## Assistant Teacher for Web Development (MERN) @[DCI Digital Career Institute](https://digitalcareerinstitute.org/).
 
 -   🌍  I'm based in Cologne, Germany
--   ✉️  You can contact me at [manuel_fahrenholz@web.de](mailto:manuel_fahrenholz@web.de)
 
 ### Skills
 
@@ -25,7 +24,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
+### Contact me on
 
+<!-- ✉️  -->
 <p align="left">                     
 <a href="https://www.linkedin.com/in/manuel-fahrenholz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
