@@ -14,8 +14,6 @@ Manuel
 
 PS: 👨🏻‍💻 My main project at the moment is [The Coding Vault](https://github.com/mrbubbles-src/the-coding-vault), so feel free to give it a look 👀.
 
----
-
 ## 🛠️ Tech Stack:
 
 #### Frontend:
@@ -29,8 +27,6 @@ PS: 👨🏻‍💻 My main project at the moment is [The Coding Vault](https://
 #### Tools & Frameworks:
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-
----
 
 ## 💌 Get in touch with me:
 
